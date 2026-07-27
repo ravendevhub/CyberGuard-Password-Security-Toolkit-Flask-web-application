@@ -6,6 +6,16 @@
 
 ---
 
+## Student Information
+
+* **Name**: ____________________
+* **Student ID**: ____________________
+* **Programme**: B.C.Sc / B.C.Tech
+* **Academic Year**: 2025-2026
+* **Supervisor**: ____________________
+
+---
+
 ## Project Overview
 
 CyberGuard is a web-based application that helps users create stronger passwords and check password security. The system is developed to improve password security awareness and reduce the use of weak passwords.
@@ -14,11 +24,21 @@ CyberGuard is a web-based application that helps users create stronger passwords
 
 ## Objectives
 
-* Develop a password security web application.
-* Check password strength.
-* Generate strong passwords.
-* Detect common weak passwords.
-* Improve password security awareness.
+1. Develop a password security web application.
+2. Check password strength and analyze potential vulnerabilities.
+3. Generate strong, cryptographically secure passwords.
+4. Detect common weak passwords and known leaked patterns.
+5. Improve password security awareness among students and staff.
+
+---
+
+## Scope
+
+* Analysis of password complexity and entropy.
+* Implementation of local password strength checking rules.
+* Implementation of an offline database or check list for weak/common passwords.
+* Providing secure password generation parameters.
+* Generating audit logs and exporting password analysis reports (PDF).
 
 ---
 
@@ -36,9 +56,9 @@ CyberGuard is a web-based application that helps users create stronger passwords
 
 ## Development Tools
 
-* Ubuntu Linux
+* Ubuntu Linux / Windows OS
 * Visual Studio Code
-* Google Chrome
+* Web Browser (Google Chrome / Firefox)
 * SQLite Browser
 
 ---
@@ -60,10 +80,19 @@ CyberGuard is a web-based application that helps users create stronger passwords
 
 ## Expected Outcome
 
-Users can check password strength, generate secure passwords, and improve their knowledge of password security.
+Users can check password strength, generate secure passwords, review historical password safety logs, and improve their knowledge of password security.
+
+---
+
+## References
+
+1. Cisco Networking Academy – Cybersecurity Essentials.
+2. NIST Special Publication 800-63B (Digital Identity Guidelines - Authentication and Lifecycle Management).
+3. OWASP Top 10 – Cryptographic Failures.
+4. CompTIA Security+ Study Guide.
 
 ---
 
 ## Week 01 Progress
 
-During Week 01, the project title, objectives, technology stack, development tools, and feature list were prepared. These will be used in the next stage of the project development.
+During Week 01, the project title, objectives, student metadata, technology stack, development tools, references, and feature list were prepared. These will be used in the next stage of the project development.
